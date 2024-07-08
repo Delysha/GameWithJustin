@@ -1586,3 +1586,158 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2024.07.08-10.18.12:043][ 64]LogDerivedDataCache: C:/Users/spoty/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/spoty/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/aa/b1/386838cbfe6f859efb028032949486c5f6a6.udd from '/Game/__ExternalActors__/RavingArcade/Untitled/7/FP/NTB78QDH0LTD454UZLSS71.StaticMesh_HLOD0_Instancing_1'.
 [2024.07.08-10.18.57:283][ 67]LogDerivedDataCache: C:/Users/spoty/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.225 and deleted 0 files with total size 0 MiB and 8 empty folders. Scanned 3571 files in 5215 folders with total size 229 MiB.
 [2024.07.08-10.19.00:516][185]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.07.08-10.27.54:712][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.07.08-10.27.54:713][ 36]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/RavingArcade/Untitled' took 0.006
+[2024.07.08-10.29.35:909][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.35:932][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.35:955][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.35:978][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:002][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:023][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:046][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:070][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:092][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:115][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:138][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:161][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:184][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:207][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:230][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:252][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:274][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:297][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:321][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:343][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:366][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:389][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:412][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:434][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:456][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:479][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:502][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:525][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:547][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:572][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:593][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:616][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:639][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:662][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:685][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:708][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:731][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:754][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:777][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:800][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:822][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:844][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:868][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:890][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:912][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:935][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:958][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.36:981][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:003][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:026][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:048][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:072][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:094][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:117][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:140][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:162][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:185][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:208][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:231][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:254][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:277][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:299][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:322][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:345][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:368][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:391][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:413][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:436][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:459][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:482][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:505][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:528][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:551][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:574][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:596][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:619][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:642][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:665][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:688][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:711][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:733][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:756][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:779][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:802][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:825][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:847][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:871][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:893][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:916][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:939][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:962][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.37:984][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.38:007][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.38:031][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.38:054][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.38:077][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.38:099][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.38:121][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.38:144][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.38:166][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.38:223][269]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:323][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:324][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/spoty/OneDrive/Documenten/Project2025/UnrealGame/GameWithJustin'
+[2024.07.08-10.29.46:499][944]EditorErrors: Warning: No assets to check in!
+[2024.07.08-10.29.51:716][326]LogSlate: Window 'Message Log' being destroyed
+[2024.07.08-10.29.51:724][326]LogSlate: Window 'Message Log' being destroyed
+[2024.07.08-10.29.56:576][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.08-10.30.38:587][497]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.07.08-10.30.40:265][618]LogSlate: Window 'View Changes' being destroyed
+[2024.07.08-10.30.40:270][618]LogSlate: Window 'View Changes' being destroyed
